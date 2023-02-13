@@ -13,6 +13,8 @@
 
 4. [Sample Output](#output)
 
+5. [Source](#source)
+
 <a name="overview"/></a>
 ## 1. Overview
 [Back to ToC](#toc)
@@ -78,3 +80,8 @@ java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Main
 <p align="center">
 <img src="card_sorting.png" height="150"/>
 </p>
+
+## 5. Source
+[Back to ToC](#toc)
+
+This project uses classes developed by Professor Nick Howe to implement a graphical user interface for tracking and displaying sorting activities.
